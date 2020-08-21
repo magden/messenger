@@ -14,6 +14,7 @@ public class MessageType {
     }
 
     public void setType(String type) {
+
         this.type = type;
     }
 }
